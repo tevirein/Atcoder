@@ -1,1 +1,1 @@
-"# Atcoder" 
+# Atcoder練習用リポジトリ
