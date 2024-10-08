@@ -15,6 +15,7 @@ def isEmpty():
 
 def isFull():
     global top
+    global MAX
 
     return top == MAX
 
